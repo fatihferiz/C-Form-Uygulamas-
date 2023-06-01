@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\bin\Debug\formuygulamaları.exe.config
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\bin\Debug\formuygulamaları.exe
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\bin\Debug\formuygulamaları.pdb
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\obj\Debug\formuygulamaları.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\obj\Debug\formuygulamaları.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\obj\Debug\formuygulamaları.Form1.resources
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\obj\Debug\formuygulamaları.Properties.Resources.resources
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\obj\Debug\formuygulamaları.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\obj\Debug\formuygulamaları.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\obj\Debug\formuygulamaları.exe
+C:\Users\USER\Desktop\ilkders\formuygulamaları\formuygulamaları\obj\Debug\formuygulamaları.pdb
